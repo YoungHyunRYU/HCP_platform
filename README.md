@@ -1,3 +1,6 @@
+#디지털 헬스케어 플랫폼 기말 대체 과제 
+휴먼바이오융합전공 202211697 유영현
+
 # Sample Snack app
 
 Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
